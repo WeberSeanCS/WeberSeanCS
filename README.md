@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WeberSeanCS
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Lua, Java, HTML, and CSS
+- 💞️ I’m looking to collaborate on nothing!!!
+- 📫 How to reach me: Hold out your hand.
